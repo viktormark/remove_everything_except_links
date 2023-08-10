@@ -1,0 +1,1 @@
+The program removes everything except links from the txt file
